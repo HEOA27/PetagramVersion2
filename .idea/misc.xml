@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/activity_main.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/activity_biografia_desarrollador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/activity_contacto_form.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/fragment_contacto.xml" value="0.22" />
         <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/layout/item_pet.xml" value="0.1671195652173913" />
         <entry key="..\:/Users/Ordaz Alvarez/AndroidStudioProjects/Petagram/app/src/main/res/menu/menu.xml" value="0.1712962962962963" />
       </map>

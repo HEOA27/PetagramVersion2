@@ -33,7 +33,6 @@ public class RecyclerViewAdaptador extends RecyclerView.Adapter<RecyclerViewAdap
 
 
     @Override
-    //POSIBLE ERROR
     public RecyclerViewAdaptador.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
     View view= LayoutInflater.from(parent.getContext()).inflate(R.layout.item_pet,parent,false);
     ViewHolder viewHolder= new ViewHolder(view);

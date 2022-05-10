@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Petagram">
         <activity
+            android:name=".BiografiaDesarrollador"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ContactoForm"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
